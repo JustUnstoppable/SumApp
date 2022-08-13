@@ -7,8 +7,7 @@
     </thead>
     <tbody>
         <tr>
-            <td><img src="Sum.jpeg" widht="300"></td>
-            
+            <td><img src="Sum.jpeg" widht="300" height="500"></td> 
         </tr>
     </tbody>
 </table>
